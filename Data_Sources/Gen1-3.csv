@@ -1,0 +1,387 @@
+pokedex_number,name,generation,status,species,type,height_m,weight_kg,image
+1,B/LBASA/R,1,Normal,Seed,Grass,0.7,6.9,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/bulbasaur.png
+2,IVYSA/R,1,Normal,Seed,Grass,1,13,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/ivysaur.png
+3,VEN/SA/R,1,Normal,Seed,Grass,2,100,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/venusaur.png
+4,CHARMANDER,1,Normal,Lizard,Fire,0.6,8.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/charmander.png
+5,CHARMELEON,1,Normal,Flame,Fire,1.1,19,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/charmeleon.png
+6,CHARIZARD,1,Normal,Flame,Fire,1.7,90.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/charizard.png
+7,SQ/IRTLE,1,Normal,Tiny Turtle,Water,0.5,9,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/squirtle.png
+8,WARTORTLE,1,Normal,Turtle,Water,1,22.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/wartortle.png
+9,BLASTOISE,1,Normal,Shellfish,Water,1.6,85.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/blastoise.png
+10,CATERPIE,1,Normal,Worm,Bug,0.3,2.9,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/caterpie.png
+11,METAPOD,1,Normal,Cocoon,Bug,0.7,9.9,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/metapod.png
+12,B/TTERFREE,1,Normal,Butterfly,Bug,1.1,32,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/butterfree.png
+13,WEEDLE,1,Normal,Hairy Bug,Bug,0.3,3.2,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/weedle.png
+14,KAK/NA,1,Normal,Cocoon,Bug,0.6,10,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/kakuna.png
+15,BEEDRILL,1,Normal,Poison Bee,Bug,1,29.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/beedrill.png
+16,PIDGEY,1,Normal,Tiny Bird,Normal,0.3,1.8,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/pidgey.png
+17,PIDGEOTTO,1,Normal,Bird,Normal,1.1,30,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/pidgeotto.png
+18,PIDGEOT,1,Normal,Bird,Normal,1.5,39.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/pidgeot.png
+19,RATTATA,1,Normal,Mouse,Normal,0.3,3.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/rattata.png
+20,RATICATE,1,Normal,Mouse,Normal,0.7,18.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/raticate.png
+21,SPEAROW,1,Normal,Tiny Bird,Normal,0.3,2,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/spearow.png
+22,FEAROW,1,Normal,Beak,Normal,1.2,38,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/fearow.png
+23,EKANS,1,Normal,Snake,Poison,2,6.9,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/ekans.png
+24,ARBOK,1,Normal,Cobra,Poison,3.5,65,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/arbok.png
+25,PIKACH/,1,Normal,Mouse,Electric,0.4,6,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/pikachu.png
+26,RAICH/,1,Normal,Mouse,Electric,0.8,30,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/raichu.png
+27,SANDSHREW,1,Normal,Mouse,Ground,0.6,12,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/sandshrew.png
+28,SANDSLASH,1,Normal,Mouse,Ground,1,29.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/sandslash.png
+29,NIDORAN♀,1,Normal,Poison Pin,Poison,0.4,7,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/nidoran♀.png
+30,NIDORINA,1,Normal,Poison Pin,Poison,0.8,20,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/nidorina.png
+31,NIDOQ/EEN,1,Normal,Drill,Poison,1.3,60,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/nidoqueen.png
+32,NIDORAN♂,1,Normal,Poison Pin,Poison,0.5,9,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/nidoran♂.png
+33,NIDORINO,1,Normal,Poison Pin,Poison,0.9,19.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/nidorino.png
+34,NIDOKING,1,Normal,Drill,Poison,1.4,62,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/nidoking.png
+35,CLEFAIRY,1,Normal,Fairy,Fairy,0.6,7.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/clefairy.png
+36,CLEFABLE,1,Normal,Fairy,Fairy,1.3,40,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/clefable.png
+37,V/LPIX,1,Normal,Fox,Fire,0.6,9.9,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/vulpix.png
+38,NINETALES,1,Normal,Fox,Fire,1.1,19.9,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/ninetales.png
+39,JIGGLYP/FF,1,Normal,Balloon,Normal,0.5,5.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/jigglypuff.png
+40,WIGGLYT/FF,1,Normal,Balloon,Normal,1,12,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/wigglytuff.png
+41,Z/BAT,1,Normal,Bat,Poison,0.8,7.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/zubat.png
+42,GOLBAT,1,Normal,Bat,Poison,1.6,55,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/golbat.png
+43,ODDISH,1,Normal,Weed,Grass,0.5,5.4,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/oddish.png
+44,GLOOM,1,Normal,Weed,Grass,0.8,8.6,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/gloom.png
+45,VILEPL/ME,1,Normal,Flower,Grass,1.2,18.6,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/vileplume.png
+46,PARAS,1,Normal,Mushroom,Bug,0.3,5.4,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/paras.png
+47,PARASECT,1,Normal,Mushroom,Bug,1,29.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/parasect.png
+48,VENONAT,1,Normal,Insect,Bug,1,30,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/venonat.png
+49,VENOMOTH,1,Normal,Poison Moth,Bug,1.5,12.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/venomoth.png
+50,DIGLETT,1,Normal,Mole,Ground,0.2,0.8,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/diglett.png
+51,D/GTRIO,1,Normal,Mole,Ground,0.7,33.3,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/dugtrio.png
+52,MEOWTH,1,Normal,Scratch Cat,Normal,0.4,4.2,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/meowth.png
+53,PERSIAN,1,Normal,Classy Cat,Normal,1,32,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/persian.png
+54,PSYD/CK,1,Normal,Duck,Water,0.8,19.6,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/psyduck.png
+55,GOLD/CK,1,Normal,Duck,Water,1.7,76.6,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/golduck.png
+56,MANKEY,1,Normal,Pig Monkey,Fight,0.5,28,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/mankey.png
+57,PRIMEAPE,1,Normal,Pig Monkey,Fight,1,32,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/primeape.png
+58,GROWLITHE,1,Normal,Puppy,Fire,0.7,19,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/growlithe.png
+59,ARCANINE,1,Normal,Legendary,Fire,1.9,155,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/arcanine.png
+60,POLIWAG,1,Normal,Tadpole,Water,0.6,12.4,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/poliwag.png
+61,POLIWHIRL,1,Normal,Tadpole,Water,1,20,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/poliwhirl.png
+62,POLIWRATH,1,Normal,Tadpole,Water,1.3,54,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/poliwrath.png
+63,ABRA,1,Normal,Psi,Psychic,0.9,19.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/abra.png
+64,KADABRA,1,Normal,Psi,Psychic,1.3,56.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/kadabra.png
+65,ALAKAZAM,1,Normal,Psi,Psychic,1.5,48,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/alakazam.png
+66,MACHOP,1,Normal,Superpower,Fight,0.8,19.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/machop.png
+67,MACHOKE,1,Normal,Superpower,Fight,1.5,70.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/machoke.png
+68,MACHAMP,1,Normal,Superpower,Fight,1.6,130,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/machamp.png
+69,BELLSPRO/T,1,Normal,Flower,Grass,0.7,4,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/bellsprout.png
+70,WEEPINBELL,1,Normal,Flycatcher,Grass,1,6.4,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/weepinbell.png
+71,VICTREEBEL,1,Normal,Flycatcher,Grass,1.7,15.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/victreebel.png
+72,TENTACOOL,1,Normal,Jellyfish,Water,0.9,45.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/tentacool.png
+73,TENTACR/EL,1,Normal,Jellyfish,Water,1.6,55,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/tentacruel.png
+74,GEOD/DE,1,Normal,Rock,Rock,0.4,20,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/geodude.png
+75,GRAVELER,1,Normal,Rock,Rock,1,105,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/graveler.png
+76,GOLEM,1,Normal,Megaton,Rock,1.4,300,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/golem.png
+77,PONYTA,1,Normal,Fire Horse,Fire,1,30,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/ponyta.png
+78,RAPIDASH,1,Normal,Fire Horse,Fire,1.7,95,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/rapidash.png
+79,SLOWPOKE,1,Normal,Dopey,Water,1.2,36,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/slowpoke.png
+80,SLOWBRO,1,Normal,Hermit Crab,Water,1.6,78.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/slowbro.png
+81,MAGNEMITE,1,Normal,Magnet,Electric,0.3,6,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/magnemite.png
+82,MAGNETON,1,Normal,Magnet,Electric,1,60,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/magneton.png
+83,FARFETCH'D,1,Normal,Wild Duck,Normal,0.8,15,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/farfetch'd.png
+84,DOD/O,1,Normal,Twin Bird,Normal,1.4,39.2,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/doduo.png
+85,DODRIO,1,Normal,Triple Bird,Normal,1.8,85.2,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/dodrio.png
+86,SEEL,1,Normal,Sea Lion,Water,1.1,90,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/seel.png
+87,DEWGONG,1,Normal,Sea Lion,Water,1.7,120,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/dewgong.png
+88,GRIMER,1,Normal,Sludge,Poison,0.9,30,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/grimer.png
+89,M/K,1,Normal,Sludge,Poison,1.2,30,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/muk.png
+90,SHELLDER,1,Normal,Bivalve,Water,0.3,4,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/shellder.png
+91,CLOYSTER,1,Normal,Bivalve,Water,1.5,132.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/cloyster.png
+92,GASTLY,1,Normal,Gas,Ghost,1.3,0.1,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/gastly.png
+93,HA/NTER,1,Normal,Gas,Ghost,1.6,0.1,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/haunter.png
+94,GENGAR,1,Normal,Shadow,Ghost,1.5,40.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/gengar.png
+95,ONIX,1,Normal,Rock Snake,Rock,8.8,210,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/onix.png
+96,DROWZEE,1,Normal,Hypnosis,Psychic,1,32.4,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/drowzee.png
+97,HYPNO,1,Normal,Hypnosis,Psychic,1.6,75.6,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/hypno.png
+98,KRABBY,1,Normal,River Crab,Water,0.4,6.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/krabby.png
+99,KINGLER,1,Normal,Pincer,Water,1.3,60,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/kingler.png
+100,VOLTORB,1,Normal,Ball,Electric,0.5,10.4,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/voltorb.png
+101,ELECTRODE,1,Normal,Ball,Electric,1.2,66.6,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/electrode.png
+102,EXEGGC/TE,1,Normal,Egg,Grass,0.4,2.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/exeggcute.png
+103,EXEGG/TOR,1,Normal,Coconut,Grass,2,120,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/exeggutor.png
+104,C/BONE,1,Normal,Lonely,Ground,0.4,6.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/cubone.png
+105,MAROWAK,1,Normal,Bone Keeper,Ground,1,45,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/marowak.png
+106,HITMONLEE,1,Normal,Kicking,Fight,1.5,49.8,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/hitmonlee.png
+107,HITMONCHAN,1,Normal,Punching,Fight,1.4,50.2,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/hitmonchan.png
+108,LICKIT/NG,1,Normal,Licking,Normal,1.2,65.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/lickitung.png
+109,KOFFING,1,Normal,Poison Gas,Poison,0.6,1,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/koffing.png
+110,WEEZING,1,Normal,Poison Gas,Poison,1.2,9.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/weezing.png
+111,RHYHORN,1,Normal,Spikes,Ground,1,115,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/rhyhorn.png
+112,RHYDON,1,Normal,Drill,Ground,1.9,120,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/rhydon.png
+113,CHANSEY,1,Normal,Egg,Normal,1.1,34.6,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/chansey.png
+114,TANGELA,1,Normal,Vine,Grass,1,35,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/tangela.png
+115,KANGASKHAN,1,Normal,Parent,Normal,2.2,80,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/kangaskhan.png
+116,HORSEA,1,Normal,Dragon,Water,0.4,8,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/horsea.png
+117,SEADRA,1,Normal,Dragon,Water,1.2,25,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/seadra.png
+118,GOLDEEN,1,Normal,Goldfish,Water,0.6,15,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/goldeen.png
+119,SEAKING,1,Normal,Goldfish,Water,1.3,39,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/seaking.png
+120,STARY/,1,Normal,Star Shape,Water,0.8,34.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/staryu.png
+121,STARMIE,1,Normal,Mysterious,Water,1.1,80,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/starmie.png
+122,MR. MIME,1,Normal,Barrier,Psychic,1.3,54.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/mr.-mime.png
+123,SCYTHER,1,Normal,Mantis,Bug,1.5,56,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/scyther.png
+124,JYNX,1,Normal,Human Shape,Ice,1.4,40.6,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/jynx.png
+125,ELECTAB/ZZ,1,Normal,Electric,Electric,1.1,30,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/electabuzz.png
+126,MAGMAR,1,Normal,Spitfire,Fire,1.3,44.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/magmar.png
+127,PINSIR,1,Normal,Stag Beetle,Bug,1.5,55,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/pinsir.png
+128,TA/ROS,1,Normal,Wild Bull,Normal,1.4,88.4,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/tauros.png
+129,MAGIKARP,1,Normal,Fish,Water,0.9,10,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/magikarp.png
+130,GYARADOS,1,Normal,Atrocious,Water,6.5,235,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/gyarados.png
+131,LAPRAS,1,Normal,Transport,Water,2.5,220,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/lapras.png
+132,DITTO,1,Normal,Transform,Normal,0.3,4,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/ditto.png
+133,EEVEE,1,Normal,Evolution,Normal,0.3,6.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/eevee.png
+134,VAPOREON,1,Normal,Bubble Jet,Water,1,29,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/vaporeon.png
+135,JOLTEON,1,Normal,Lightning,Electric,0.8,24.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/jolteon.png
+136,FLAREON,1,Normal,Flame,Fire,0.9,25,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/flareon.png
+137,PORYGON,1,Normal,Virtual,Normal,0.8,36.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/porygon.png
+138,OMANYTE,1,Normal,Spiral,Rock,0.4,7.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/omanyte.png
+139,OMASTAR,1,Normal,Spiral,Rock,1,35,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/omastar.png
+140,KAB/TO,1,Normal,Shellfish,Rock,0.5,11.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/kabuto.png
+141,KAB/TOPS,1,Normal,Shellfish,Rock,1.3,40.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/kabutops.png
+142,AERODACTYL,1,Normal,Fossil,Rock,1.8,59,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/aerodactyl.png
+143,SNORLAX,1,Normal,Sleeping,Normal,2.1,460,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/snorlax.png
+144,ARTIC/NO,1,Sub Legendary,Freeze,Ice,1.7,55.4,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/articuno.png
+145,ZAPDOS,1,Sub Legendary,Electric,Electric,1.6,52.6,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/zapdos.png
+146,MOLTRES,1,Sub Legendary,Flame,Fire,2,60,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/moltres.png
+147,DRATINI,1,Normal,Dragon,Dragon,1.8,3.3,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/dratini.png
+148,DRAGONAIR,1,Normal,Dragon,Dragon,4,16.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/dragonair.png
+149,DRAGONITE,1,Normal,Dragon,Dragon,2.2,210,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/dragonite.png
+150,MEWTWO,1,Legendary,Genetic,Psychic,2,122,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/mewtwo.png
+151,MEW,1,Mythical,New Species,Psychic,0.4,4,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/mew.png
+152,CHIKORITA,2,Normal,Leaf,Grass,0.9,6.4,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/chikorita.png
+153,BAYLEEF,2,Normal,Leaf,Grass,1.2,15.8,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/bayleef.png
+154,MEGANI/M,2,Normal,Herb,Grass,1.8,100.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/meganium.png
+155,CYNDAQ/IL,2,Normal,Fire Mouse,Fire,0.5,7.9,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/cyndaquil.png
+156,Q/ILAVA,2,Normal,Volcano,Fire,0.9,19,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/quilava.png
+157,TYPHLOSION,2,Normal,Volcano,Fire,1.7,79.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/typhlosion.png
+158,TOTODILE,2,Normal,Big Jaw,Water,0.6,9.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/totodile.png
+159,CROCONAW,2,Normal,Big Jaw,Water,1.1,25,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/croconaw.png
+160,FERALIGATR,2,Normal,Big Jaw,Water,2.3,88.8,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/feraligatr.png
+161,SENTRET,2,Normal,Scout,Normal,0.8,6,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/sentret.png
+162,F/RRET,2,Normal,Long Body,Normal,1.8,32.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/furret.png
+163,HOOTHOOT,2,Normal,Owl,Normal,0.7,21.2,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/hoothoot.png
+164,NOCTOWL,2,Normal,Owl,Normal,1.6,40.8,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/noctowl.png
+165,LEDYBA,2,Normal,Five Star,Bug,1,10.8,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/ledyba.png
+166,LEDIAN,2,Normal,Five Star,Bug,1.4,35.6,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/ledian.png
+167,SPINARAK,2,Normal,String Spit,Bug,0.5,8.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/spinarak.png
+168,ARIADOS,2,Normal,Long Leg,Bug,1.1,33.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/ariados.png
+169,CROBAT,2,Normal,Bat,Poison,1.8,75,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/crobat.png
+170,CHINCHO/,2,Normal,Angler,Water,0.5,12,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/chinchou.png
+171,LANT/RN,2,Normal,Light,Water,1.2,22.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/lanturn.png
+172,PICH/,2,Normal,Tiny Mouse,Electric,0.3,2,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/pichu.png
+173,CLEFFA,2,Normal,Star Shape,Fairy,0.3,3,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/cleffa.png
+174,IGGLYB/FF,2,Normal,Balloon,Normal,0.3,1,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/igglybuff.png
+175,TOGEPI,2,Normal,Spike Ball,Fairy,0.3,1.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/togepi.png
+176,TOGETIC,2,Normal,Happiness,Fairy,0.6,3.2,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/togetic.png
+177,NAT/,2,Normal,Tiny Bird,Psychic,0.2,2,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/natu.png
+178,XAT/,2,Normal,Mystic,Psychic,1.5,15,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/xatu.png
+179,MAREEP,2,Normal,Wool,Electric,0.6,7.8,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/mareep.png
+180,FLAAFFY,2,Normal,Wool,Electric,0.8,13.3,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/flaaffy.png
+181,AMPHAROS,2,Normal,Light,Electric,1.4,61.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/ampharos.png
+182,BELLOSSOM,2,Normal,Flower,Grass,0.4,5.8,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/bellossom.png
+183,MARILL,2,Normal,Aqua Mouse,Water,0.4,8.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/marill.png
+184,AZ/MARILL,2,Normal,Aqua Rabbit,Water,0.8,28.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/azumarill.png
+185,S/DOWOODO,2,Normal,Imitation,Rock,1.2,38,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/sudowoodo.png
+186,POLITOED,2,Normal,Frog,Water,1.1,33.9,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/politoed.png
+187,HOPPIP,2,Normal,Cottonweed,Grass,0.4,0.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/hoppip.png
+188,SKIPLOOM,2,Normal,Cottonweed,Grass,0.6,1,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/skiploom.png
+189,J/MPL/FF,2,Normal,Cottonweed,Grass,0.8,3,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/jumpluff.png
+190,AIPOM,2,Normal,Long Tail,Normal,0.8,11.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/aipom.png
+191,S/NKERN,2,Normal,Seed,Grass,0.3,1.8,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/sunkern.png
+192,S/NFLORA,2,Normal,Sun,Grass,0.8,8.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/sunflora.png
+193,YANMA,2,Normal,Clear Wing,Bug,1.2,38,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/yanma.png
+194,WOOPER,2,Normal,Water Fish,Water,0.4,8.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/wooper.png
+195,Q/AGSIRE,2,Normal,Water Fish,Water,1.4,75,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/quagsire.png
+196,ESPEON,2,Normal,Sun,Psychic,0.9,26.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/espeon.png
+197,/MBREON,2,Normal,Moonlight,Dark,1,27,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/umbreon.png
+198,M/RKROW,2,Normal,Darkness,Dark,0.5,2.1,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/murkrow.png
+199,SLOWKING,2,Normal,Royal,Water,2,79.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/slowking.png
+200,MISDREAV/S,2,Normal,Screech,Ghost,0.7,1,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/misdreavus.png
+201,/NOWN,2,Normal,Symbol,Psychic,0.5,5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/unown.png
+202,WOBB/FFET,2,Normal,Patient,Psychic,1.3,28.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/wobbuffet.png
+203,GIRAFARIG,2,Normal,Long Neck,Normal,1.5,41.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/girafarig.png
+204,PINECO,2,Normal,Bagworm,Bug,0.6,7.2,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/pineco.png
+205,FORRETRESS,2,Normal,Bagworm,Bug,1.2,125.8,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/forretress.png
+206,D/NSPARCE,2,Normal,Land Snake,Normal,1.5,14,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/dunsparce.png
+207,GLIGAR,2,Normal,FlyScorpion,Ground,1.1,64.8,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/gligar.png
+208,STEELIX,2,Normal,Iron Snake,Steel,9.2,400,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/steelix.png
+209,SN/BB/LL,2,Normal,Fairy,Fairy,0.6,7.8,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/snubbull.png
+210,GRANB/LL,2,Normal,Fairy,Fairy,1.4,48.7,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/granbull.png
+211,QWILFISH,2,Normal,Balloon,Water,0.5,3.9,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/qwilfish.png
+212,SCIZOR,2,Normal,Pincer,Bug,1.8,118,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/scizor.png
+213,SH/CKLE,2,Normal,Mold,Bug,0.6,20.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/shuckle.png
+214,HERACROSS,2,Normal,Single Horn,Bug,1.5,54,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/heracross.png
+215,SNEASEL,2,Normal,Sharp Claw,Dark,0.9,28,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/sneasel.png
+216,TEDDI/RSA,2,Normal,Little Bear,Normal,0.6,8.8,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/teddiursa.png
+217,/RSARING,2,Normal,Hibernator,Normal,1.8,125.8,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/ursaring.png
+218,SL/GMA,2,Normal,Lava,Fire,0.7,35,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/slugma.png
+219,MAGCARGO,2,Normal,Lava,Fire,0.8,55,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/magcargo.png
+220,SWIN/B,2,Normal,Pig,Ice,0.4,6.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/swinub.png
+221,PILOSWINE,2,Normal,Swine,Ice,1.1,55.8,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/piloswine.png
+222,CORSOLA,2,Normal,Coral,Water,0.6,5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/corsola.png
+223,REMORAID,2,Normal,Jet,Water,0.6,12,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/remoraid.png
+224,OCTILLERY,2,Normal,Jet,Water,0.9,28.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/octillery.png
+225,DELIBIRD,2,Normal,Delivery,Ice,0.9,16,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/delibird.png
+226,MANTINE,2,Normal,Kite,Water,2.1,220,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/mantine.png
+227,SKARMORY,2,Normal,Armor Bird,Steel,1.7,50.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/skarmory.png
+228,HO/NDO/R,2,Normal,Dark,Dark,0.6,10.8,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/houndour.png
+229,HO/NDOOM,2,Normal,Dark,Dark,1.4,35,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/houndoom.png
+230,KINGDRA,2,Normal,Dragon,Water,1.8,152,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/kingdra.png
+231,PHANPY,2,Normal,Long Nose,Ground,0.5,33.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/phanpy.png
+232,DONPHAN,2,Normal,Armor,Ground,1.1,120,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/donphan.png
+233,PORYGON2,2,Normal,Virtual,Normal,0.6,32.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/porygon2.png
+234,STANTLER,2,Normal,Big Horn,Normal,1.4,71.2,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/stantler.png
+235,SMEARGLE,2,Normal,Painter,Normal,1.2,58,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/smeargle.png
+236,TYROG/E,2,Normal,Scuffle,Fight,0.7,21,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/tyrogue.png
+237,HITMONTOP,2,Normal,Handstand,Fight,1.4,48,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/hitmontop.png
+238,SMOOCH/M,2,Normal,Kiss,Ice,0.4,6,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/smoochum.png
+239,ELEKID,2,Normal,Electric,Electric,0.6,23.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/elekid.png
+240,MAGBY,2,Normal,Live Coal,Fire,0.7,21.4,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/magby.png
+241,MILTANK,2,Normal,Milk Cow,Normal,1.2,75.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/miltank.png
+242,BLISSEY,2,Normal,Happiness,Normal,1.5,46.8,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/blissey.png
+243,RAIKO/,2,Sub Legendary,Thunder,Electric,1.9,178,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/raikou.png
+244,ENTEI,2,Sub Legendary,Volcano,Fire,2.1,198,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/entei.png
+245,S/IC/NE,2,Sub Legendary,Aurora,Water,2,187,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/suicune.png
+246,LARVITAR,2,Normal,Rock Skin,Rock,0.6,72,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/larvitar.png
+247,P/PITAR,2,Normal,Hard Shell,Rock,1.2,152,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/pupitar.png
+248,TYRANITAR,2,Normal,Armor,Rock,2,202,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/tyranitar.png
+249,L/GIA,2,Legendary,Diving,Psychic,5.2,216,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/lugia.png
+250,HO-OH,2,Legendary,Rainbow,Fire,3.8,199,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/ho-oh.png
+251,CELEBI,2,Mythical,Time Travel,Psychic,0.6,5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/celebi.png
+252,TREECKO,3,Normal,Wood Gecko,Grass,0.5,5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/treecko.png
+253,GROVYLE,3,Normal,Wood Gecko,Grass,0.9,21.6,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/grovyle.png
+254,SCEPTILE,3,Normal,Forest,Grass,1.7,52.2,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/sceptile.png
+255,TORCHIC,3,Normal,Chick,Fire,0.4,2.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/torchic.png
+256,COMB/SKEN,3,Normal,Young Fowl,Fire,0.9,19.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/combusken.png
+257,BLAZIKEN,3,Normal,Blaze,Fire,1.9,52,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/blaziken.png
+258,M/DKIP,3,Normal,Mud Fish,Water,0.4,7.6,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/mudkip.png
+259,MARSHTOMP,3,Normal,Mud Fish,Water,0.7,28,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/marshtomp.png
+260,SWAMPERT,3,Normal,Mud Fish,Water,1.5,81.9,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/swampert.png
+261,POOCHYENA,3,Normal,Bite,Dark,0.5,13.6,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/poochyena.png
+262,MIGHTYENA,3,Normal,Bite,Dark,1,37,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/mightyena.png
+263,ZIGZAGOON,3,Normal,TinyRaccoon,Normal,0.4,17.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/zigzagoon.png
+264,LINOONE,3,Normal,Rushing,Normal,0.5,32.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/linoone.png
+265,W/RMPLE,3,Normal,Worm,Bug,0.3,3.6,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/wurmple.png
+266,SILCOON,3,Normal,Cocoon,Bug,0.6,10,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/silcoon.png
+267,BEA/TIFLY,3,Normal,Butterfly,Bug,1,28.4,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/beautifly.png
+268,CASCOON,3,Normal,Cocoon,Bug,0.7,11.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/cascoon.png
+269,D/STOX,3,Normal,Poison Moth,Bug,1.2,31.6,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/dustox.png
+270,LOTAD,3,Normal,Water Weed,Water,0.5,2.6,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/lotad.png
+271,LOMBRE,3,Normal,Jolly,Water,1.2,32.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/lombre.png
+272,L/DICOLO,3,Normal,Carefree,Water,1.5,55,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/ludicolo.png
+273,SEEDOT,3,Normal,Acorn,Grass,0.5,4,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/seedot.png
+274,N/ZLEAF,3,Normal,Wily,Grass,1,28,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/nuzleaf.png
+275,SHIFTRY,3,Normal,Wicked,Grass,1.3,59.6,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/shiftry.png
+276,TAILLOW,3,Normal,TinySwallow,Normal,0.3,2.3,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/taillow.png
+277,SWELLOW,3,Normal,Swallow,Normal,0.7,19.8,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/swellow.png
+278,WING/LL,3,Normal,Seagull,Water,0.6,9.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/wingull.png
+279,PELIPPER,3,Normal,Water Bird,Water,1.2,28,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/pelipper.png
+280,RALTS,3,Normal,Feeling,Psychic,0.4,6.6,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/ralts.png
+281,KIRLIA,3,Normal,Emotion,Psychic,0.8,20.2,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/kirlia.png
+282,GARDEVOIR,3,Normal,Embrace,Psychic,1.6,48.4,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/gardevoir.png
+283,S/RSKIT,3,Normal,Pond Skater,Bug,0.5,1.7,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/surskit.png
+284,MASQ/ERAIN,3,Normal,Eyeball,Bug,0.8,3.6,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/masquerain.png
+285,SHROOMISH,3,Normal,Mushroom,Grass,0.4,4.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/shroomish.png
+286,BRELOOM,3,Normal,Mushroom,Grass,1.2,39.2,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/breloom.png
+287,SLAKOTH,3,Normal,Slacker,Normal,0.8,24,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/slakoth.png
+288,VIGOROTH,3,Normal,Wild Monkey,Normal,1.4,46.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/vigoroth.png
+289,SLAKING,3,Normal,Lazy,Normal,2,130.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/slaking.png
+290,NINCADA,3,Normal,Trainee,Bug,0.5,5.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/nincada.png
+291,NINJASK,3,Normal,Ninja,Bug,0.8,12,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/ninjask.png
+292,SHEDINJA,3,Normal,Shed,Bug,0.8,1.2,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/shedinja.png
+293,WHISM/R,3,Normal,Whisper,Normal,0.6,16.3,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/whismur.png
+294,LO/DRED,3,Normal,Big Voice,Normal,1,40.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/loudred.png
+295,EXPLO/D,3,Normal,Loud Noise,Normal,1.5,84,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/exploud.png
+296,MAK/HITA,3,Normal,Guts,Fight,1,86.4,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/makuhita.png
+297,HARIYAMA,3,Normal,Arm Thrust,Fight,2.3,253.8,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/hariyama.png
+298,AZ/RILL,3,Normal,Polka Dot,Normal,0.2,2,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/azurill.png
+299,NOSEPASS,3,Normal,Compass,Rock,1,97,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/nosepass.png
+300,SKITTY,3,Normal,Kitten,Normal,0.6,11,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/skitty.png
+301,DELCATTY,3,Normal,Prim,Normal,1.1,32.6,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/delcatty.png
+302,SABLEYE,3,Normal,Darkness,Dark,0.5,11,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/sableye.png
+303,MAWILE,3,Normal,Deceiver,Steel,0.6,11.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/mawile.png
+304,ARON,3,Normal,Iron Armor,Steel,0.4,60,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/aron.png
+305,LAIRON,3,Normal,Iron Armor,Steel,0.9,120,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/lairon.png
+306,AGGRON,3,Normal,Iron Armor,Steel,2.1,360,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/aggron.png
+307,MEDITITE,3,Normal,Meditate,Fight,0.6,11.2,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/meditite.png
+308,MEDICHAM,3,Normal,Meditate,Fight,1.3,31.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/medicham.png
+309,ELECTRIKE,3,Normal,Lightning,Electric,0.6,15.2,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/electrike.png
+310,MANECTRIC,3,Normal,Discharge,Electric,1.5,40.2,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/manectric.png
+311,PL/SLE,3,Normal,Cheering,Electric,0.4,4.2,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/plusle.png
+312,MIN/N,3,Normal,Cheering,Electric,0.4,4.2,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/minun.png
+313,VOLBEAT,3,Normal,Firefly,Bug,0.7,17.7,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/volbeat.png
+314,ILL/MISE,3,Normal,Firefly,Bug,0.6,17.7,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/illumise.png
+315,ROSELIA,3,Normal,Thorn,Grass,0.3,2,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/roselia.png
+316,G/LPIN,3,Normal,Stomach,Poison,0.4,10.3,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/gulpin.png
+317,SWALOT,3,Normal,Poison Bag,Poison,1.7,80,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/swalot.png
+318,CARVANHA,3,Normal,Savage,Water,0.8,20.8,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/carvanha.png
+319,SHARPEDO,3,Normal,Brutal,Water,1.8,88.8,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/sharpedo.png
+320,WAILMER,3,Normal,Ball Whale,Water,2,130,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/wailmer.png
+321,WAILORD,3,Normal,Float Whale,Water,14.5,398,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/wailord.png
+322,N/MEL,3,Normal,Numb,Fire,0.7,24,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/numel.png
+323,CAMER/PT,3,Normal,Eruption,Fire,1.9,220,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/camerupt.png
+324,TORKOAL,3,Normal,Coal,Fire,0.5,80.4,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/torkoal.png
+325,SPOINK,3,Normal,Bounce,Psychic,0.7,30.6,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/spoink.png
+326,GR/MPIG,3,Normal,Manipulate,Psychic,0.9,71.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/grumpig.png
+327,SPINDA,3,Normal,Spot Panda,Normal,1.1,5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/spinda.png
+328,TRAPINCH,3,Normal,Ant Pit,Ground,0.7,15,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/trapinch.png
+329,VIBRAVA,3,Normal,Vibration,Ground,1.1,15.3,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/vibrava.png
+330,FLYGON,3,Normal,Mystic,Ground,2,82,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/flygon.png
+331,CACNEA,3,Normal,Cactus,Grass,0.4,51.3,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/cacnea.png
+332,CACT/RNE,3,Normal,Scarecrow,Grass,1.3,77.4,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/cacturne.png
+333,SWABL/,3,Normal,Cotton Bird,Normal,0.4,1.2,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/swablu.png
+334,ALTARIA,3,Normal,Humming,Dragon,1.1,20.6,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/altaria.png
+335,ZANGOOSE,3,Normal,Cat Ferret,Normal,1.3,40.3,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/zangoose.png
+336,SEVIPER,3,Normal,Fang Snake,Poison,2.7,52.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/seviper.png
+337,L/NATONE,3,Normal,Meteorite,Rock,1,168,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/lunatone.png
+338,SOLROCK,3,Normal,Meteorite,Rock,1.2,154,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/solrock.png
+339,BARBOACH,3,Normal,Whiskers,Water,0.4,1.9,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/barboach.png
+340,WHISCASH,3,Normal,Whiskers,Water,0.9,23.6,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/whiscash.png
+341,CORPHISH,3,Normal,Ruffian,Water,0.6,11.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/corphish.png
+342,CRAWDA/NT,3,Normal,Rogue,Water,1.1,32.8,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/crawdaunt.png
+343,BALTOY,3,Normal,Clay Doll,Ground,0.5,21.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/baltoy.png
+344,CLAYDOL,3,Normal,Clay Doll,Ground,1.5,108,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/claydol.png
+345,LILEEP,3,Normal,Sea Lily,Rock,1,23.8,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/lileep.png
+346,CRADILY,3,Normal,Barnacle,Rock,1.5,60.4,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/cradily.png
+347,ANORITH,3,Normal,Old Shrimp,Rock,0.7,12.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/anorith.png
+348,ARMALDO,3,Normal,Plate,Rock,1.5,68.2,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/armaldo.png
+349,FEEBAS,3,Normal,Fish,Water,0.6,7.4,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/feebas.png
+350,MILOTIC,3,Normal,Tender,Water,6.2,162,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/milotic.png
+351,CASTFORM,3,Normal,Weather,Normal,0.3,0.8,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/castform.png
+352,KECLEON,3,Normal,Color Swap,Normal,1,22,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/kecleon.png
+353,SH/PPET,3,Normal,Puppet,Ghost,0.6,2.3,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/shuppet.png
+354,BANETTE,3,Normal,Marionette,Ghost,1.1,12.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/banette.png
+355,D/SK/LL,3,Normal,Requiem,Ghost,0.8,15,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/duskull.png
+356,D/SCLOPS,3,Normal,Beckon,Ghost,1.6,30.6,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/dusclops.png
+357,TROPI/S,3,Normal,Fruit,Grass,2,100,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/tropius.png
+358,CHIMECHO,3,Normal,Wind Chime,Psychic,0.6,1,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/chimecho.png
+359,ABSOL,3,Normal,Disaster,Dark,1.2,47,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/absol.png
+360,WYNA/T,3,Normal,Bright,Psychic,0.6,14,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/wynaut.png
+361,SNOR/NT,3,Normal,Snow Hat,Ice,0.7,16.8,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/snorunt.png
+362,GLALIE,3,Normal,Face,Ice,1.5,256.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/glalie.png
+363,SPHEAL,3,Normal,Clap,Ice,0.8,39.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/spheal.png
+364,SEALEO,3,Normal,Ball Roll,Ice,1.1,87.6,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/sealeo.png
+365,WALREIN,3,Normal,Ice Break,Ice,1.4,150.6,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/walrein.png
+366,CLAMPERL,3,Normal,Bivalve,Water,0.4,52.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/clamperl.png
+367,H/NTAIL,3,Normal,Deep Sea,Water,1.7,27,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/huntail.png
+368,GOREBYSS,3,Normal,South Sea,Water,1.8,22.6,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/gorebyss.png
+369,RELICANTH,3,Normal,Longevity,Water,1,23.4,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/relicanth.png
+370,L/VDISC,3,Normal,Rendezvous,Water,0.6,8.7,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/luvdisc.png
+371,BAGON,3,Normal,Rock Head,Dragon,0.6,42.1,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/bagon.png
+372,SHELGON,3,Normal,Endurance,Dragon,1.1,110.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/shelgon.png
+373,SALAMENCE,3,Normal,Dragon,Dragon,1.5,102.6,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/salamence.png
+374,BELD/M,3,Normal,Iron Ball,Steel,0.6,95.2,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/beldum.png
+375,METANG,3,Normal,Iron Claw,Steel,1.2,202.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/metang.png
+376,METAGROSS,3,Normal,Iron Leg,Steel,1.6,550,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/metagross.png
+377,REGIROCK,3,Sub Legendary,Rock Peak,Rock,1.7,230,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/regirock.png
+378,REGICE,3,Sub Legendary,Iceberg,Ice,1.8,175,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/regice.png
+379,REGISTEEL,3,Sub Legendary,Iron,Steel,1.9,205,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/registeel.png
+380,LATIAS,3,Sub Legendary,Eon,Dragon,1.4,40,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/latias.png
+381,LATIOS,3,Sub Legendary,Eon,Dragon,2,60,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/latios.png
+382,KYOGRE,3,Legendary,Sea Basin,Water,4.5,352,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/kyogre.png
+383,GRO/DON,3,Legendary,Continent,Ground,3.5,950,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/groudon.png
+384,RAYQ/AZA,3,Legendary,Sky High,Dragon,7,206.5,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/rayquaza.png
+385,JIRACHI,3,Mythical,Wish,Steel,0.3,1.1,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/jirachi.png
+386,DEOXYS NORMAL,3,Mythical,DNA,Psychic,1.7,60.8,https://raw.githubusercontent.com/Vladis7771/Openslava2021/master/images/deoxys-normal.png
